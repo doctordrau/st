@@ -57,11 +57,11 @@ static int bellvolume = 0;
 /* TERM value */
 static char termname[] = "st-256color";
 
-static unsigned int tabspaces = 4;
+static unsigned int tabspaces = 8;
 
 /* background opacity */
-static const int alpha = 0xcd;
-
+static const int alpha = 0xa0;
+/* 0xcd */
 /**
  * Solarized dark scheme (http://ethanschoonover.com/solarized)
  * Terminal colors (16 first used in escape sequence)
