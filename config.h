@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "-*-lime-medium-r-normal-*-10-110-75-75-*-50-iso8859-1";
+static char font[] = "-artwiz-lime-medium-r-normal-*-10-110-75-75-m-50-iso10646-1"; 
+  /*"-*-lime-medium-r-normal-*-10-110-75-75-*-50-iso8859-1";*/
 static int borderpx = 0;
 static char shell[] = "/bin/zsh";
 static char *utmp = NULL;
