@@ -68,27 +68,27 @@ static const int alpha = 0xcd;
  */
 static const char *colorname[] = {
     /* solarized dark */
-    "#073642",  /*   0: black    */
-    "#dc322f",  /*   1: red      */
-    "#859900",  /*   2: green    */
-    "#b58900",  /*   3: yellow   */
-    "#268bd2",  /*   4: blue     */
-    "#d33682",  /*   5: magenta  */
-    "#2aa198",  /*   6: cyan     */
-    "#eee8d5",  /*   7: white    */
-    "#002b36",  /*   8: brblack  */
-    "#cb4b16",  /*   9: brred    */
-    "#586e75",  /*  10: brgreen  */
-    "#657b83",  /*  11: bryellow */
-    "#839496",  /*  12: brblue   */
-    "#6c71c4",  /*  13: brmagenta*/
-    "#93a1a1",  /*  14: brcyan   */
-    "#fdf6e3",  /*  15: brwhite  */
+    "#393a2f",  /*   0: black    */
+    "#a5755a",  /*   1: red      */
+    "#948f51",  /*   2: green    */
+    "#cbbca6",  /*   3: yellow   */
+    "#6f7b75",  /*   4: blue     */
+    "#906638",  /*   5: magenta  */
+    "#686855",  /*   6: cyan     */
+    "#fbf2e9",  /*   7: white    */
+    "#393a2f",  /*   8: brblack  */
+    "#c2896a",  /*   9: brred    */
+    "#b8b265",  /*  10: brgreen  */
+    "#e1d0b8",  /*  11: bryellow */
+    "#a0b0a8",  /*  12: brblue   */
+    "#b37f46",  /*  13: brmagenta*/
+    "#8d8d73",  /*  14: brcyan   */
+    "#fbf2e9",  /*  15: brwhite  */
 
     [255] = 0,  /* other colors follow */
 
-    "#000000",  /* 256: background */
-    "#fbfbfb",  /* 257: foreground */
+    "#1f1f19",  /* 256: background */
+    "#fbf7f0",  /* 257: foreground */
 };
 
 /**
