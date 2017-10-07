@@ -57,10 +57,10 @@ static int bellvolume = 0;
 /* TERM value */
 static char termname[] = "st-256color";
 
-static unsigned int tabspaces = 8;
+static unsigned int tabspaces = 4;
 
 /* background opacity */
-static const int alpha = 0xa0;
+static const int alpha = 0xcd;
 /* 0xcd */
 /**
  * Solarized dark scheme (http://ethanschoonover.com/solarized)
