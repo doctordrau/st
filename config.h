@@ -9,6 +9,7 @@ static char font[] = "-*-profont-medium-r-nil-*-10-110-75-75-*-60-iso8859-1";
   /*"-artwiz-lime-nil-r-nil-*-10-110-75-75-m-50-iso8859-1"; "-*-profont-medium-r-nil-*-10-110-75-75-*-60-iso8859-1";*/ 
   /*"-*-lime-medium-r-normal-*-10-110-75-75-*-50-iso8859-1";*/
 static int borderpx = 0;
+static int bold_font = 0;
 static char shell[] = "/bin/zsh";
 static char *utmp = NULL;
 static char stty_args[] = "stty raw pass8 nl -echo -iexten -cstopb 38400";
